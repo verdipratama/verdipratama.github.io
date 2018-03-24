@@ -137,27 +137,6 @@ h3.intro {
     margin-top: 0px
 }
 
-.list {
-    font-family: 'Roboto', sans-serif;
-    margin-top: 50px;
-}
-
-.list li {
-    list-style: none;
-}
-
-.list-entry {
-    font-family: 'Roboto Slab', serif;
-    font-size: 25px;
-    font-weight: 400;
-    margin-top: 10px;
-    margin-bottom: 20px;
-}
-
-.list-entry-link {
-    padding: 0;
-}
-
 .main-menu {
     margin-top: 10px;
     margin-bottom: 10px;
