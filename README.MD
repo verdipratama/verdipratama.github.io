@@ -5,6 +5,7 @@ Hi, My name is Verdi Pratama. I program as a hobby or for small side jobs and lo
 I also enjoy more general IT things like configuring and running servers, networking devices, and storage stuff.
 
 # Interests
+- UI/UX
 - Security
 - Databases
 - Data mining
