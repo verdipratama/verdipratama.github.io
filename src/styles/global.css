@@ -1,0 +1,78 @@
+/*
+  thanks @danabramov (overreacted.io) to see little bit of style and,
+  @mazipan (https://www.mazipan.xyz) for reason why I'm create my personal blog
+*/
+
+/* --- setup font --- */
+@font-face {
+  font-family: 'Coustard';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(./fonts/Coustard-Reguler.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+    U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215,
+    U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: 'Sniglet';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(./fonts/Sniglet-Reguler.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+    U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215,
+    U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: 'InputMono-Medium';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(./fonts/InputMono-Medium.ttf);
+}
+
+:root {
+  --font-portofolio: 'Coustard', serif, Arial, Helvetica, sans-serif;
+  --font-blog: 'Sniglet', serif, Arial, Helvetica, sans-serif;
+  --primary-color: #56b6c2;
+  --profile-size: 4.5rem;
+  --color-blog: #d7dae0;
+}
+
+a {
+  color: unset;
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: disc;
+}
+
+/* --- setup responsinve --- */
+@media (max-width: 768px) {
+  .container {
+    max-width: unset !important;
+  }
+
+  .layout-blog {
+    padding-top: 1.5rem !important;
+  }
+}
+
+/* --- Layout list of blog --- */
+.layout-blog {
+  background-color: #282c34;
+  color: var(--color-blog);
+  font-family: var(--font-blog);
+  padding-top: 3rem;
+}
+
+.container {
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 50%;
+}
