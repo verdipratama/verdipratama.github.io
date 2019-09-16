@@ -5,12 +5,14 @@ module.exports = {
         author: `@verdipratama`,
         name: `Verdi Pratama`,
         tagline: `a study note from a man who write a code`,
+        siteUrl: `https://dev.verside.com`,
     },
     plugins: [
         `gatsby-plugin-react-helmet`,
         `gatsby-transformer-sharp`,
         `gatsby-plugin-sharp`,
         `gatsby-plugin-emotion`,
+        `gatsby-plugin-sitemap`,
         {
             resolve: `gatsby-transformer-remark`,
             options: {
@@ -64,6 +66,13 @@ module.exports = {
             options: {
                 trackingId: 'UA-135917039-1',
                 head: true,
+            },
+        },
+
+        {
+            resolve: 'gatsby-plugin-sitemap',
+            options: {
+                output: `/sitemap.xml`,
             },
         },
     ],
