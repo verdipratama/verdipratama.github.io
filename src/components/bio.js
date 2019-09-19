@@ -57,9 +57,8 @@ class Bio extends React.Component {
                                     >
                                         {author}
                                     </a>{" "}
-                                    menulis adalah cara salah satu terapi
-                                    terbaik saat kita mulai lelah berbicara.
-                                    &nbsp;{" "}
+                                    menulis adalah salah satu terapi terbaik
+                                    saat kita mulai lelah berbicara. &nbsp;{" "}
                                     <a
                                         target="_blank"
                                         rel="noopener noreferrer"
