@@ -1,6 +1,6 @@
 module.exports = {
     siteMetadata: {
-        title: `Journal of Verdi Pratama`,
+        title: `Journey of Verdi Pratama`,
         author: `Verdi Pratama`,
         description: `Personal github web and blog by Verdi Pratama`,
         siteUrl: `https://dev.verside.com`,
