@@ -14,7 +14,9 @@ class Layout extends React.Component {
                 }}
             >
                 <main>{children}</main>
-                <footer>© {new Date().getFullYear()} Verdi Pratama</footer>
+                <footer>
+                    © 2014 - {new Date().getFullYear()} Verdi Pratama
+                </footer>
             </div>
         )
     }

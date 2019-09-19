@@ -74,9 +74,9 @@ module.exports = {
             resolve: `gatsby-plugin-manifest`,
             options: {
                 name: `Verdi Pratama Blog`,
-                short_name: `VerdiPratamaBlog`,
+                short_name: `VP`,
                 start_url: `/`,
-                background_color: `#ffffff`,
+                background_color: `#000`,
                 theme_color: `#663399`,
                 display: `minimal-ui`,
                 icon: `content/assets/favicon.png`,
