@@ -3,7 +3,7 @@ module.exports = {
     title: `Journey of Verdi Pratama`,
     author: `Verdi Pratama`,
     description: `Personal github web and blog by Verdi Pratama`,
-    siteUrl: `https://dev.verside.com`,
+    siteUrl: `https://blog.verside.com`,
     social: {
       twitter: `versucks`,
       instagram: `verdipratama`,
