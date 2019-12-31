@@ -9,10 +9,9 @@ Alhamdulilah, akhirnya 2019 telah berakhir dan 2020 telah tiba. ada pengorbanan 
 
 Resolusi di tahun 2020:
 
-[x] Lulus kuliah di tahun ini dengan IPK skala 4.0
-[x] Menjadi expert di bidang yang saya pelajari
-[x] Dapat kerja yang lebih baik lagi untuk masa depan
-[x] Cepet dapet jodoh yang serius bisa diajak menikah hehe :)
+- [x] Lulus kuliah di tahun ini dengan IPK skala 4.0
+- [x] Menjadi expert di bidang yang saya pelajari
+- [x] Dapat kerja yang lebih baik lagi untuk masa depan
+- [x] Cepet dapet jodoh yang serius bisa diajak menikah hehe :)
 
-Amin ya allah...
-Selamat tahun baru 2020, semuanya :)
+Amin ya allah... Selamat tahun baru 2020, semuanya :)
