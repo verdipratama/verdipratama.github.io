@@ -7,7 +7,7 @@ description: Alhamdulilah, akhirnya 2019 telah berakhir dan 2020 telah tiba. ada
 
 Alhamdulilah, akhirnya 2019 telah berakhir dan 2020 telah tiba. ada pengorbanan dan juga target di tahun ini. semoga jadi lebih baik lagi! semoga rezeki datang di tahun ini. bismilah!!!
 
-Resolusi di tahun 2020:
+## Resolusi di tahun 2020:
 
 - [x] Lulus kuliah di tahun ini dengan IPK skala 4.0
 - [x] Menjadi expert di bidang yang saya pelajari
