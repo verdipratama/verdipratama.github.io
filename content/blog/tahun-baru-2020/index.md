@@ -7,4 +7,4 @@ description: Alhamdulilah, akhirnya 2019 telah berakhir dan 2020 telah tiba. ada
 
 Alhamdulilah, akhirnya 2019 telah berakhir dan 2020 telah tiba. ada pengorbanan dan juga target di tahun ini. semoga jadi lebih baik lagi! semoga rezeki datang di tahun ini. bismilah!!!
 
-Selamat tahun baru 2020 semuanya!!!
+Selamat tahun baru 2020, semuanya :)
