@@ -21,11 +21,11 @@ Wordpress2016.overrideThemeStyles = () => {
     },
     h4: {
       lineHeight: 1.58,
-      fontSize: "18px",
+      fontSize: "17px",
       textTransform: "normal",
     },
     p: {
-      fontSize: "18px",
+      fontSize: "17px",
       lineHeight: 1.8,
       color: "rgba(0, 0, 0, .7)",
       letterSpacing: "-.003em",
@@ -38,7 +38,7 @@ Wordpress2016.overrideThemeStyles = () => {
     },
     "ul, ol": {
       marginLeft: "1.75rem",
-      fontSize: "18px",
+      fontSize: "17px",
       lineHeight: 1.8,
       color: "rgba(0, 0, 0, .7)",
       letterSpacing: "-.003em",
