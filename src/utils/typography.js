@@ -7,7 +7,8 @@ Wordpress2016.overrideThemeStyles = () => {
       boxShadow: `none`,
     },
     body: {
-      color: "rgba(0,0,0,.84)",
+      // color: "rgba(0,0,0,.84)",
+      color: "#f2f2f2",
     },
     "h1,h2,h3,h4,h5,h6": {
       fontFamily:
