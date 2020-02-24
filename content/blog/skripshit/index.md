@@ -5,7 +5,7 @@ date: "2020-02-24T00:00:00.284Z"
 description: Skripsi merupakan tugas akhir yang harus diselesaikan oleh mahasiswa sebelum dinyatakan lulus dan berhak menyandang gelar sarjana.
 ---
 
-![App screenshots](./shit.jpeg)
+![App screenshots](./shit.jpg)
 
 Skripsi merupakan tugas akhir yang harus diselesaikan oleh mahasiswa sebelum dinyatakan lulus dan berhak menyandang gelar sarjana. Meskipun, ada juga sebenarnya beberapa orang yang masih tetap mengambil mata kuliah reguler setelah atau bersamaan dengan skripsi karena masih kurangnya SKS untuk memenuhi syarat sebagai sarjana. Banyak sekali mahasiswa yang terjebak dengan kerumitan skripsi, mulai dari belum mendapat ide, mendapat dosen yang kurang kooperatif, data yang tidak sesuai dengan hipotesis, proses penelitian yang rumit, masalah keluarga, menikah sambil kuliah, dan lain-lain sebagainya.
 
