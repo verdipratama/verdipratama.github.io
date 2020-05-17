@@ -1,5 +1,5 @@
 ---
-title: "Meningkatkan Skill Programming Agar Menjadi Software Engineer yang Bersaing"
+title: "Meningkatkan Skill Agar Menjadi Software Engineer yang Bersaing"
 subtitle: Passion is never enough; neither is skill — Toni Morrison
 date: "2020-05-17T00:00:00.284Z"
 description: Saat ini Indonesia sedang menghadapi pemasalahan di mana permintaan industri akan software engineer tidak sebanding dengan jumlah talent yang dibutuhkan dan siap dipakai oleh industri.
