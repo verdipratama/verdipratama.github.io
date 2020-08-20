@@ -41,7 +41,6 @@ module.exports = {
             resolve: "gatsby-remark-embed-gist",
             options: {
               // Optional:
-
               // the github handler whose gists are to be accessed
               username: "verdipratama",
 
