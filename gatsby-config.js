@@ -48,10 +48,6 @@ module.exports = {
               // default: true
               // DEPRECATED (PLEASE USE gistDefaultCssInclude)
               includeDefaultCss: true,
-
-              // a flag indicating whether the github default gist css should be included or not
-              // default: true
-              gistDefaultCssInclude: true,
             },
           },
           {
