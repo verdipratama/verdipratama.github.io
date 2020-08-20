@@ -18,7 +18,6 @@ ini adalah contoh:
 3. Culpa consequat mollit magna ex ullamco amet esse mollit duis laborum adipisicing.
 
 `gist:jamigibbs/3fe01d559a6e6e1059cf33a431f55efa`
-`gist:[<jamigibbs>/]<3fe01d559a6e6e1059cf33a431f55efa>#<getNearestDivvyStation.js>`
 
 ## Ini adalah Qoute
 
