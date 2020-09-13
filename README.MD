@@ -9,7 +9,7 @@ I also enjoy more general IT things like configuring and running servers, networ
 # Interests
 
 - UI/UX
-- ERP
+- ERP / CRM
 - Security
 - Databases
 - Machine learning
