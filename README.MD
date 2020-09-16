@@ -14,4 +14,4 @@ I also enjoy more general IT things like configuring and running servers, networ
 - Machine learning
 - Enterprise Architecture
 
-You can find me on LinkedIn at: [Verdi Pratama](https://id.linkedin.com/in/verdipratama)
+You can find me on LinkedIn at: [Verdi Pratama](https://id.linkedin.com/in/verdipratama) :)
