@@ -1,6 +1,6 @@
 ---
 title: "Ilmu Tidak Bisa dihitung Oleh sebuah nilai"
-subtitle: Terkadang kita tidak berpikir bagaimana caranya. Tidak peduli benar-benar paham materi atau tidak, yang penting mendapat nilai bagus
+subtitle: Terkadang kita tidak berpikir bagaimana caranya, yang penting mendapat nilai bagus
 date: "2020-09-21T00:00:00.284Z"
 description: Sekolah diciptakan sebagai tempat untuk mewujudkan salah satu tujuan Bangsa Indonesia dan sebagai tempat untuk menuntut ilmu bukan mencari nilai.
 ---
