@@ -5,7 +5,7 @@ date: "2020-09-21T00:00:00.284Z"
 description: Pepatah pun mengatakan “Tuntutlah ilmu sampai ke Negeri Cina” tidak ada istilah “Carilah nilai sampai ke Ruang Guru.” Ditambah lagi ilmu yang kita miliki akan kita gunakan selamanya, sedang nilai yang kita dapatkan di raport akan kita simpan rapi suatu hari nanti.
 ---
 
-Banyak orang bilang, belajar di sekolah itu untuk mencari ilmu. Sekarang mari kita tilik kenyataan yang ada. Pada saat masih kecil (TK/Playgroup) sekolah merupakan sesuatu yang menyenangkan, sekolah tempat main dan belajar. Belajar pun terkadang terasa seperti bermain.
+Banyak orang bilang, belajar di sekolah itu untuk mencari ilmu. Sekarang mari kita tarik kenyataan yang ada. Pada saat masih kecil (TK/Playgroup) sekolah merupakan sesuatu yang menyenangkan, sekolah tempat main dan belajar. Belajar pun terkadang terasa seperti bermain.
 
 Beranjak ke Sekolah Dasar (SD), orang tua mulai terlihat menuntut. Beliau-beliau bilang sekolah itu tempat menuntut dan mencari ilmu. Selain di sekolah tidak ada tempat lain yang menyediakan fasilitas pembelajaran sekondusif di sekolah. Ok, itu benar, mari kita lihat ada apa di dalam sebuah sekolah dasar.
 
