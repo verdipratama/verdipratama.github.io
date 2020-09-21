@@ -2,7 +2,7 @@
 title: "Ilmu Tidak Bisa dihitung Oleh sebuah nilai"
 subtitle: Terkadang kita tidak berpikir bagaimana caranya, yang penting mendapat nilai bagus
 date: "2020-09-21T00:00:00.284Z"
-description: Sekolah diciptakan sebagai tempat untuk mewujudkan salah satu tujuan Bangsa Indonesia dan sebagai tempat untuk menuntut ilmu bukan mencari nilai.
+description: Pepatah pun mengatakan “Tuntutlah ilmu sampai ke Negeri Cina” tidak ada istilah “Carilah nilai sampai ke Ruang Guru.” Ditambah lagi ilmu yang kita miliki akan kita gunakan selamanya, sedang nilai yang kita dapatkan di raport akan kita simpan rapi suatu hari nanti.
 ---
 
 Banyak orang bilang, belajar di sekolah itu untuk mencari ilmu. Sekarang mari kita tilik kenyataan yang ada. Pada saat masih kecil (TK/Playgroup) sekolah merupakan sesuatu yang menyenangkan, sekolah tempat main dan belajar. Belajar pun terkadang terasa seperti bermain.
