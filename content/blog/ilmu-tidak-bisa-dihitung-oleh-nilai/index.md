@@ -1,5 +1,5 @@
 ---
-title: "Ilmu Tidak Bisa dihitung Oleh sebuah nilai"
+title: "Terkadang Ilmu Tidak Bisa dihitung oleh Nilai!"
 subtitle: Terkadang kita tidak berpikir bagaimana caranya, yang penting mendapat nilai bagus
 date: "2020-09-21T00:00:00.284Z"
 description: Pepatah pun mengatakan “Tuntutlah ilmu sampai ke Negeri Cina” tidak ada istilah “Carilah nilai sampai ke Ruang Guru.” Ditambah lagi ilmu yang kita miliki akan kita gunakan selamanya, sedang nilai yang kita dapatkan di raport akan kita simpan rapi suatu hari nanti.
