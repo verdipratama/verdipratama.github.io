@@ -80,7 +80,6 @@ class BlogPostTemplate extends React.Component {
               )}
             </li>
           </ul>
-
           <DiscussionEmbed shortname={disqusShortname} config={disqusConfig} />
         </Layout>
       </div>
